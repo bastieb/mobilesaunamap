@@ -86,7 +86,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<3d-printing-assembly>\/main.json#saunaStart}\n"
+                 "value":"{https:\/\/play.workadventu.re\/_\/global\/8de2fdb0.gitlab.io\/techno-keller\/map.json#saunaStart}\n"
                 }],
          "type":"tilelayer",
          "visible":true,
